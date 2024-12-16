@@ -1,7 +1,20 @@
 {
   "common": {
-    "version": "versiyon",
+    "version": "sürüm",
     "current": "şimdiki"
+  },
+  "editor": {
+    "card": {
+      "climate": {
+        "disable_eco": "Eco’yu gösterme",
+        "disable_heat": "Isıtmayı gösterme",
+        "disable_off": "Kapat’ı gösterme",
+        "disable_menu": "Menü’yü(…) gösterme",
+        "disable_battery_warning": "Pil uyarısını gösterme",
+        "disable_buttons": "Artı/eksi butonlarını gösterme",
+        "eco_temperature": "Eco sıcaklığı"
+      }
+    }
   },
   "extra_states": {
     "window_open": "Pencere açık",
